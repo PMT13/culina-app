@@ -1,14 +1,9 @@
-# Module 2 Group Assignment
-
-CSCI 5117, Spring 2022, [assignment description](https://canvas.umn.edu/courses/291031/pages/project-2)
-
 ## App Info:
 
-* Team Name: ASYNC
 * App Name: Culina
 * App Link: <https://recipe-tracker-53956.web.app/>
 
-### Students
+### Members
 
 * Peng Mong Thao, thao0577@umn.edu
 * Matthew Hiller, hille325@umn.edu
@@ -40,9 +35,7 @@ Which (if any) progressive web app feature(s) does your app support?
 
 ## Testing Notes
 
-**Is there anything special we need to know in order to effectively test your app? (optional):**
-
-* Our amount of free api requests is limited (we have used around 25 out of 100 free requests) so please take that into consideration when testing our online recipe importation.
+* Amount of free api requests is limited (we have used around 25 out of 100 free requests)
 
 * Capturing an image on an IPhone only works on Safari.
 
@@ -67,9 +60,6 @@ The grocery list page where the user can select items to add to their grocery li
 
 ## External Dependencies
 
-**Document integrations with 3rd Party code or services here.
-Please do not document required libraries (e.g., Vue, Vuefire, Firebase).**
-
 * Library or service name: description of use
 * axios: to make http requests to api
 * vue-axios: to make it easier to use axious with vue
@@ -78,9 +68,7 @@ Please do not document required libraries (e.g., Vue, Vuefire, Firebase).**
 * MyCookBook.io: an api for getting a json object representation of an online recuoe
 * uuid: for creating unique ID's. 
 
-**If there's anything else you would like to disclose about how your project
-relied on external code, expertise, or anything else, please disclose that
-here:**
+**Extra Notes:**
 
 - The burger menu css in the nav bar was referenced from the web (https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
 
