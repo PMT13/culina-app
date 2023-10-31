@@ -12,8 +12,6 @@
 
 ## Mockup images
 
-**[Add images/photos that show your mockup](https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository) along with a very brief caption:**
-
 ![](mockups/3tabInterface.jpg)
 
 
