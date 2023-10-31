@@ -10,22 +10,6 @@
 * Carlos Schmidt, schm4661@umn.edu
 * Minh Tran, tran0842@umn.edu
 
-## Key Features
-
-**Describe the most challenging features you implemented
-(one sentence per bullet, maximum 4 bullets):**
-
-* the grocery list builder required a two-way link between all recipes and the ingredients on them, which was quite difficult to set up and maintain, especially with all the edge cases of the various ways to update and delete ingredients from a recipe
-* the app allows the users to select and seperate the quantifiers and the ingredients by selectively highlight the latter when importing an online recipe
-
-Which (if any) device integration(s) does your app support?
-
-* A device integration that our app supports is uploading an image from users device or using the camera on the users device to upload an image.
-
-Which (if any) progressive web app feature(s) does your app support?
-
-* N/A
-
 ## Mockup images
 
 **[Add images/photos that show your mockup](https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository) along with a very brief caption:**
